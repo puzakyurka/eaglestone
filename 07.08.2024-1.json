@@ -1,0 +1,25 @@
+{
+    "name": "Amy Stewart",
+    "age": 66,
+    "address": {
+        "street": "Timothy Drives",
+        "city": "Henryville",
+        "state": "Arizona",
+        "zip": "76669"
+    },
+    "contact": {
+        "phone": "+1-329-962-6254",
+        "servicePhone": "800131234"
+    },
+    "birthday": "1959-23-06",
+    "ip": "178.122.145.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Why he probably magazine prevent second must provide.\nPossible value since item recently.",
+        "bio": "Large surface join.\nGarden tonight nice. American address election fish drive behind. Choose coach able deep small east.\nPeople white maintain sound left teach Democrat. Would fund half himself good."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
