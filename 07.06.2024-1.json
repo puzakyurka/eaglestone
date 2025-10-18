@@ -1,0 +1,25 @@
+{
+    "name": "Donald Lucas",
+    "age": 55,
+    "address": {
+        "street": "Christopher Harbors",
+        "city": "East Douglas",
+        "state": "Alabama",
+        "zip": "28946"
+    },
+    "contact": {
+        "phone": "4443608992",
+        "servicePhone": "800349809"
+    },
+    "birthday": "1970-06-02",
+    "ip": "49.42.153.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Group quite direction at mean yard. Candidate memory statement.\nRight coach message shoulder question. Worker because should allow next.",
+        "bio": "Network put size team past. Seek his point condition increase knowledge culture."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
