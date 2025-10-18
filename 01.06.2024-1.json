@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Powell",
+    "age": 15,
+    "address": {
+        "street": "Marcia Unions",
+        "city": "South Lisa",
+        "state": "Virginia",
+        "zip": "35838"
+    },
+    "contact": {
+        "phone": "+1-253-684-6797x095",
+        "servicePhone": "800711147"
+    },
+    "birthday": "2010-07-03",
+    "ip": "30.237.181.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle role prove professor. Until sport present guy language. Future take Congress realize business boy subject hand.",
+        "bio": "Ground owner score seem onto prove boy.\nPrevent yet animal least. Focus money child. Government likely summer eat suggest wish office."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
