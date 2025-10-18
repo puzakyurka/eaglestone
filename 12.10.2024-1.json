@@ -1,0 +1,25 @@
+{
+    "name": "John Rivera",
+    "age": 73,
+    "address": {
+        "street": "Michelle Garden",
+        "city": "Diazport",
+        "state": "Wyoming",
+        "zip": "38939"
+    },
+    "contact": {
+        "phone": "(780)254-2954",
+        "servicePhone": "800278196"
+    },
+    "birthday": "1952-19-05",
+    "ip": "147.113.105.74",
+    "foo": "bar",
+    "profile": {
+        "about": "A country knowledge perhaps. Wonder reach year arm by. Drop follow determine.\nAnyone operation face per ago. Collection now woman gas picture cover. Arrive blood media total you similar.",
+        "bio": "When lose service ball little. Mean while reality read. Start address as us eat how second.\nFilm perhaps someone eight none rise. Explain treat local fire exactly argue water."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
