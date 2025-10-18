@@ -1,0 +1,25 @@
+{
+    "name": "Gabrielle Shields",
+    "age": 40,
+    "address": {
+        "street": "Stephanie Loaf",
+        "city": "Port Johnhaven",
+        "state": "Michigan",
+        "zip": "32790"
+    },
+    "contact": {
+        "phone": "(279)249-9467x254",
+        "servicePhone": "800705235"
+    },
+    "birthday": "1985-11-02",
+    "ip": "41.136.149.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm instead source that.\nProgram then eight current pay. Raise place long enjoy.\nInclude safe to character. Sell data eat herself sign decision middle light.",
+        "bio": "Evidence reality these trip collection throughout order.\nDemocratic manager walk yet social. Look side shake above special like spend ready."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
