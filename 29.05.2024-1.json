@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Lamb",
+    "age": 105,
+    "address": {
+        "street": "Wade Crossing",
+        "city": "Williammouth",
+        "state": "Nebraska",
+        "zip": "95960"
+    },
+    "contact": {
+        "phone": "378-301-4119x40378",
+        "servicePhone": "800297170"
+    },
+    "birthday": "1920-11-03",
+    "ip": "5.244.162.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Show bar face experience news. Do significant new necessary success. Manage in major.\nInstead skill its year. Throw into everyone owner team college. Exist dog stock budget put.",
+        "bio": "Even head true stay identify must. Film community mention kitchen. Use office ability mission study above. Agent bank soldier federal minute situation.\nProve bad protect outside."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
