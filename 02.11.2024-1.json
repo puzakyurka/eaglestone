@@ -1,0 +1,25 @@
+{
+    "name": "Christina Moore",
+    "age": 103,
+    "address": {
+        "street": "Green Forge",
+        "city": "Gloriabury",
+        "state": "Kansas",
+        "zip": "47344"
+    },
+    "contact": {
+        "phone": "+1-573-670-4311",
+        "servicePhone": "800217082"
+    },
+    "birthday": "1922-31-01",
+    "ip": "74.219.145.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer policy politics idea trade four young. Wear yet central environmental rather generation consider various. Picture president contain concern.",
+        "bio": "Actually tend ahead major meeting today risk. Program hotel carry painting state. Else current eat collection main these still decade. Establish box claim smile discover trouble man."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
