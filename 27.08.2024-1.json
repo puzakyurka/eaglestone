@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Brian Gonzalez",
+    "age": 30,
+    "address": {
+        "street": "Danielle Rest",
+        "city": "Suttonchester",
+        "state": "California",
+        "zip": "88053"
+    },
+    "contact": {
+        "phone": "8565725330",
+        "servicePhone": "800797680"
+    },
+    "birthday": "1995-25-07",
+    "ip": "99.221.192.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Worry back writer industry goal they expect. Finish feel question system TV knowledge. Interesting speak program view just.\nImpact key around beyond become. Line claim theory purpose.",
+        "bio": "Office measure line major more. Green shoulder election it. House pay plan human prevent step test change.\nStay almost practice range fire begin before. Blue information someone hair tell."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
