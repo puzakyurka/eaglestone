@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Bell",
+    "age": 113,
+    "address": {
+        "street": "Lee Junction",
+        "city": "East Christianhaven",
+        "state": "Tennessee",
+        "zip": "72557"
+    },
+    "contact": {
+        "phone": "(204)204-2452x27062",
+        "servicePhone": "800911941"
+    },
+    "birthday": "1912-17-06",
+    "ip": "144.27.34.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Why young thus couple. Middle read himself indicate million.\nLet raise raise in. Wear should practice compare financial themselves.\nIndividual suggest rather within. Tend summer garden catch project.",
+        "bio": "Author past TV always identify culture policy. Attack picture most day true west place.\nWhy imagine race soldier. Food car push their. Size kitchen high visit prepare success different executive."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
