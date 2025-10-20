@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Stewart",
+    "age": 79,
+    "address": {
+        "street": "Yu Burgs",
+        "city": "West Wendyside",
+        "state": "Minnesota",
+        "zip": "22902"
+    },
+    "contact": {
+        "phone": "+1-444-823-0048x3656",
+        "servicePhone": "800567057"
+    },
+    "birthday": "1946-09-09",
+    "ip": "192.44.243.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular hard summer performance miss your worker.\nAgent difference writer will remember. Total protect member behavior very fill.\nTax professor economy expect. Ability huge one may suggest local.",
+        "bio": "Have property door. Near shoulder mother girl small development option.\nCandidate spend debate fish explain. Expert apply three industry wonder west nothing thousand. Yourself position present kind."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
