@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Love",
+    "age": 89,
+    "address": {
+        "street": "Ray View",
+        "city": "Scottstad",
+        "state": "Wisconsin",
+        "zip": "29603"
+    },
+    "contact": {
+        "phone": "235-963-7608",
+        "servicePhone": "800817488"
+    },
+    "birthday": "1936-23-09",
+    "ip": "62.42.28.162",
+    "foo": "bar",
+    "profile": {
+        "about": "There skill blood employee.\nPick key politics protect remember much just of. Media help focus his.",
+        "bio": "While long attention meet there. Society business into side. Away rule these throw until. Drive thought front.\nTell person several. Civil phone different test."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
